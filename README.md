@@ -3,4 +3,4 @@
 This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
-i am new to branch
+(i am new to branch) i need to be deleted
