@@ -1,0 +1,1 @@
+it is good practice to add styles in top level component which root layout - layout.tsx
